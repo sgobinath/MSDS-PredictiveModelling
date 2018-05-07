@@ -1,0 +1,387 @@
+Cause of death,Male Mortality Count,Female Mortality Count
+A00-B99 Infectious and parasitic diseases,176,190
+A04 Other bacterial intestinal infections,13,20
+A09 Diarrhoea and gastroenteritis of presumed infectious origin,4,14
+"A16 Respiratory tuberculosis, not confirmed bacteriologically or histologically",8,4
+A39 Meningococcal infection,1,2
+A40 Streptococcal septicaemia,5,6
+A41 Other septicaemia,95,105
+"A48 Other bacterial diseases, not elsewhere classified",1,1
+A49 Bacterial infection of unspecified site,3,1
+A81 Atypical virus infections of central nervous system,3,5
+B02 Zoster [herpes zoster],2,2
+B18 Chronic viral hepatitis,16,5
+B20 Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,3,1
+B24 Unspecified human immunodeficiency virus [HIV] disease,1,1
+B37 Candidiasis,1,1
+B44 Aspergillosis,1,3
+B59 Pneumocystosis,2,1
+B94 Sequelae of other and unspecified infectious and parasitic diseases,5,4
+B99 Other and unspecified infectious diseases,1,1
+C00-D48 Neoplasms,4833,4239
+C00 Malignant neoplasm of lip,3,1
+C01 Malignant neoplasm of base of tongue,3,2
+C02 Malignant neoplasm of other and unspecified parts of tongue,21,10
+C03 Malignant neoplasm of gum,2,1
+C04 Malignant neoplasm of floor of mouth,6,1
+C05 Malignant neoplasm of palate,3,2
+C06 Malignant neoplasm of other and unspecified parts of mouth,14,9
+C07 Malignant neoplasm of parotid gland,16,5
+C08 Malignant neoplasm of other and unspecified major salivary glands,1,3
+C09 Malignant neoplasm of tonsil,11,2
+C10 Malignant neoplasm of oropharynx,16,6
+C11 Malignant neoplasm of nasopharynx,14,1
+C13 Malignant neoplasm of hypopharynx,6,2
+"C14 Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx",13,1
+C15 Malignant neoplasm of oesophagus,274,132
+C16 Malignant neoplasm of stomach,193,135
+C17 Malignant neoplasm of small intestine,13,17
+C18 Malignant neoplasm of colon,277,207
+C19 Malignant neoplasm of rectosigmoid junction,223,121
+C20 Malignant neoplasm of rectum,110,65
+C21 Malignant neoplasm of anus and anal canal,5,5
+C22 Malignant neoplasm of liver and intrahepatic bile ducts,192,103
+C23 Malignant neoplasm of gallbladder,12,31
+C24 Malignant neoplasm of other and unspecified parts of biliary tract,6,12
+C25 Malignant neoplasm of pancreas,297,250
+C26 Malignant neoplasm of other and ill-defined digestive organs,55,56
+C31 Malignant neoplasm of accessory sinuses,5,1
+C32 Malignant neoplasm of larynx,48,9
+C34 Malignant neoplasm of bronchus and lung,1042,785
+C37 Malignant neoplasm of thymus,3,5
+C40 Malignant neoplasm of bone and articular cartilage of limbs,4,2
+C41 Malignant neoplasm of bone and articular cartilage of other and unspecified sites,13,6
+C43 Malignant melanoma of skin,79,57
+C44 Other malignant neoplasms of skin,54,33
+C45 Mesothelioma,28,2
+C48 Malignant neoplasm of retroperitoneum and peritoneum,3,13
+C49 Malignant neoplasm of other connective and soft tissue,27,18
+C50 Malignant neoplasm of breast,2,678
+"C64 Malignant neoplasm of kidney, except renal pelvis",142,85
+C65 Malignant neoplasm of renal pelvis,2,3
+C66 Malignant neoplasm of ureter,8,1
+C67 Malignant neoplasm of bladder,170,71
+C69 Malignant neoplasm of eye and adnexa,4,5
+C71 Malignant neoplasm of brain,183,139
+C73 Malignant neoplasm of thyroid gland,13,19
+C74 Malignant neoplasm of adrenal gland,9,5
+C76 Malignant neoplasm of other and ill-defined sites,12,16
+C80 Malignant neoplasm without specification of site,138,144
+C81 Hodgkin's disease,14,11
+C82 Follicular [nodular] non-Hodgkin's lymphoma,2,6
+C83 Diffuse non-Hodgkin's lymphoma,56,28
+C84 Peripheral and cutaneous T-cell lymphomas,18,4
+C85 Other and unspecified types of non-Hodgkin's lymphoma,82,89
+C90 Multiple myeloma and malignant plasma cell neoplasms,92,82
+C91 Lymphoid leukaemia,56,35
+C92 Myeloid leukaemia,71,60
+C95 Leukaemia of unspecified cell type,13,10
+D13 Benign neoplasm of other and ill-defined parts of digestive system,1,4
+D14 Benign neoplasm of middle ear and respiratory system,1,2
+D32 Benign neoplasm of meninges,4,12
+D33 Benign neoplasm of brain and other parts of central nervous system,11,8
+D35 Benign neoplasm of other and unspecified endocrine glands,1,1
+D37 Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs,2,3
+D38 Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs,1,2
+D43 Neoplasm of uncertain or unknown behaviour of brain and central nervous system,2,3
+D46 Myelodysplastic syndromes,43,30
+"D47 Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",19,21
+D48 Neoplasm of uncertain or unknown behaviour of other and unspecified sites,2,3
+D50-D89 Diseases of the blood and bloodforming organs and certain disorders involving the immune mechanism,46,44
+D58 Other hereditary haemolytic anaemias,2,1
+D59 Acquired haemolytic anaemia,2,3
+D61 Other aplastic anaemias,4,3
+D64 Other anaemias,8,13
+D65 Disseminated intravascular coagulation [defibrination syndrome],1,1
+D68 Other coagulation defects,3,3
+D69 Purpura and other haemorrhagic conditions,5,6
+D70 Agranulocytosis,5,3
+D73 Diseases of spleen,1,1
+D75 Other diseases of blood and blood-forming organs,1,1
+D80 Immunodeficiency with predominantly antibody defects,1,2
+D86 Sarcoidosis,7,5
+"E00-E90 Endocrine, nutritional and metabolic diseases",360,345
+E03 Other hypothyroidism,3,11
+E04 Other nontoxic goitre,1,1
+E05 Thyrotoxicosis [hyperthyroidism],3,4
+E10 Insulin-dependent diabetes mellitus,24,16
+E11 Non-insulin-dependent diabetes mellitus,112,90
+E14 Unspecified diabetes mellitus,145,131
+E22 Hyperfunction of pituitary gland,1,1
+E27 Other disorders of adrenal gland,1,2
+E34 Other endocrine disorders,1,1
+E66 Obesity,9,16
+E78 Disorders of lipoprotein metabolism and other lipidaemias,14,23
+E83 Disorders of mineral metabolism,4,2
+E84 Cystic fibrosis,5,10
+E85 Amyloidosis,11,13
+E86 Volume depletion,4,3
+"E87 Other disorders of fluid, electrolyte and acid-base balance",11,13
+E88 Other metabolic disorders,5,1
+F00-F99 Mental and behavioural disorders,555,1002
+F01 Vascular dementia,107,145
+F03 Unspecified dementia,414,835
+"F05 Delirium, not induced by alcohol and other psychoactive substances",6,5
+F06 Other mental disorders due to brain damage and dysfunction and to physical disease,2,2
+F10 Mental and behavioural disorders due to use of alcohol,17,6
+F20 Schizophrenia,4,4
+F31 Bipolar affective disorder,1,1
+F32 Depressive episode,2,2
+G00-G99 Diseases of the nervous system,683,872
+"G00 Bacterial meningitis, not elsewhere classified",2,2
+"G04 Encephalitis, myelitis and encephalomyelitis",4,1
+G10 Huntington's disease,5,4
+G11 Hereditary ataxia,2,2
+G12 Spinal muscular atrophy and related syndromes,88,78
+G20 Parkinson's disease,203,171
+G30 Alzheimer's disease,184,442
+"G31 Other degenerative diseases of nervous system, not elsewhere classified",42,40
+G35 Multiple sclerosis,29,49
+G37 Other demyelinating diseases of central nervous system,1,1
+G40 Epilepsy,41,34
+G45 Transient cerebral ischaemic attacks and related syndromes,4,7
+G47 Sleep disorders,1,1
+G61 Inflammatory polyneuropathy,2,1
+G70 Myasthenia gravis and other myoneural disorders,2,4
+G71 Primary disorders of muscles,9,4
+G72 Other myopathies,1,1
+G80 Cerebral palsy,16,5
+G81 Hemiplegia,1,3
+G82 Paraplegia and tetraplegia,3,2
+G90 Disorders of autonomic nervous system,1,1
+G91 Hydrocephalus,4,3
+G93 Other disorders of brain,16,9
+G95 Other diseases of spinal cord,2,2
+G96 Other disorders of central nervous system,1,2
+I00-I99 Diseases of the circulatory system,4741,4630
+I00 Rheumatic fever without mention of heart involvement,4,1
+I05 Rheumatic mitral valve diseases,13,24
+I07 Rheumatic tricuspid valve diseases,3,4
+I08 Multiple valve diseases,5,5
+I10 Essential (primary) hypertension,36,104
+I11 Hypertensive heart disease,43,96
+I12 Hypertensive renal disease,26,26
+I13 Hypertensive heart and renal disease,5,5
+I20 Angina pectoris,5,10
+I21 Acute myocardial infarction,1092,865
+I24 Other acute ischaemic heart diseases,34,29
+I25 Chronic ischaemic heart disease,1494,963
+I26 Pulmonary embolism,50,82
+I27 Other pulmonary heart diseases,15,38
+I31 Other diseases of pericardium,13,5
+I33 Acute and subacute endocarditis,3,1
+I34 Nonrheumatic mitral valve disorders,18,11
+I35 Nonrheumatic aortic valve disorders,89,100
+"I38 Endocarditis, valve unspecified",15,23
+I40 Acute myocarditis,1,1
+I42 Cardiomyopathy,145,58
+I44 Atrioventricular and left bundle-branch block,2,1
+I46 Cardiac arrest,10,9
+I48 Atrial fibrillation and flutter,169,295
+I49 Other cardiac arrhythmias,14,20
+I50 Heart failure,221,283
+I51 Complications and ill-defined descriptions of heart disease,129,200
+I60 Subarachnoid haemorrhage,51,71
+I61 Intracerebral haemorrhage,132,166
+I62 Other nontraumatic intracranial haemorrhage,54,45
+I63 Cerebral infarction,93,111
+"I64 Stroke, not specified as haemorrhage or infarction",430,564
+I67 Other cerebrovascular diseases,58,109
+I69 Sequelae of cerebrovascular disease,13,23
+I70 Atherosclerosis,32,54
+I71 Aortic aneurysm and dissection,124,103
+I72 Other aneurysm,5,3
+I73 Other peripheral vascular diseases,47,63
+I74 Arterial embolism and thrombosis,7,3
+I77 Other disorders of arteries and arterioles,12,2
+I78 Diseases of capillaries,1,1
+I80 Phlebitis and thrombophlebitis,16,22
+I82 Other venous embolism and thrombosis,1,2
+I83 Varicose veins of lower extremities,3,3
+I87 Other disorders of veins,1,1
+I99 Other and unspecified disorders of circulatory system,1,2
+J00-J99 Diseases of the respiratory system,1855,2010
+J10 Influenza due to identified influenza virus,2,3
+"J11 Influenza, virus not identified",13,14
+"J12 Viral pneumonia, not elsewhere classified",3,2
+"J15 Bacterial pneumonia, not elsewhere classified",1,6
+"J18 Pneumonia, organism unspecified",482,667
+J20 Acute bronchitis,1,4
+J22 Unspecified acute lower respiratory infection,53,91
+J39 Other diseases of upper respiratory tract,3,2
+"J40 Bronchitis, not specified as acute or chronic",2,2
+J42 Unspecified chronic bronchitis,6,14
+J43 Emphysema,54,35
+J44 Other chronic obstructive pulmonary disease,731,732
+J45 Asthma,29,42
+J47 Bronchiectasis,21,30
+J67 Hypersensitivity pneumonitis due to organic dust,4,1
+J69 Pneumonitis due to solids and liquids,143,115
+J80 Adult respiratory distress syndrome,4,4
+J81 Pulmonary oedema,1,4
+J84 Other interstitial pulmonary diseases,200,141
+"J90 Pleural effusion, not elsewhere classified",11,6
+"J96 Respiratory failure, not elsewhere classified",2,3
+J98 Other respiratory disorders,67,83
+K00-K93 Diseases of the digestive system,503,463
+K20 Oesophagitis,2,2
+K22 Other diseases of oesophagus,12,10
+K25 Gastric ulcer,9,9
+K26 Duodenal ulcer,25,9
+"K27 Peptic ulcer, site unspecified",5,2
+K29 Gastritis and duodenitis,4,3
+K31 Other diseases of stomach and duodenum,2,5
+K40 Inguinal hernia,5,3
+K42 Umbilical hernia,2,1
+K43 Ventral hernia,1,6
+K46 Unspecified abdominal hernia,1,8
+K50 Crohn's disease [regional enteritis],8,2
+K51 Ulcerative colitis,4,2
+K52 Other noninfective gastroenteritis and colitis,2,2
+K55 Vascular disorders of intestine,35,46
+K56 Paralytic ileus and intestinal obstruction without hernia,45,29
+K57 Diverticular disease of intestine,16,50
+K59 Other functional intestinal disorders,1,6
+K63 Other diseases of intestine,7,17
+K65 Peritonitis,3,5
+K66 Other disorders of peritoneum,1,2
+K70 Alcoholic liver disease,120,58
+"K72 Hepatic failure, not elsewhere classified",8,8
+K74 Fibrosis and cirrhosis of liver,50,40
+K75 Other inflammatory liver diseases,5,8
+K76 Other diseases of liver,45,25
+K80 Cholelithiasis,12,16
+K81 Cholecystitis,14,18
+K82 Other diseases of gallbladder,6,1
+K83 Other diseases of biliary tract,9,9
+K85 Acute pancreatitis,17,15
+K86 Other diseases of pancreas,7,2
+K90 Intestinal malabsorption,1,2
+K92 Other diseases of digestive system,19,26
+L00-L99 Diseases of the skin and subcutaneous tissue,26,38
+"L02 Cutaneous abscess, furuncle and carbuncle",2,2
+L03 Cellulitis,11,19
+L89 Decubitus ulcer,1,2
+"L97 Ulcer of lower limb, not elsewhere classified",7,9
+"L98 Other disorders of skin and subcutaneous tissue, not elsewhere classified",3,2
+M00-M99 Diseases of musculoskeletal system and connective tissue,59,137
+M05 Seropositive rheumatoid arthritis,2,2
+M06 Other rheumatoid arthritis,9,34
+M10 Gout,3,1
+M13 Other arthritis,3,8
+M15 Polyarthrosis,1,2
+M19 Other arthrosis,1,12
+M32 Systemic lupus erythematosus,2,2
+M33 Dermatopolymyositis,1,3
+M34 Systemic sclerosis,2,3
+M35 Other systemic involvement of connective tissue,1,3
+M41 Scoliosis,8,8
+M45 Ankylosing spondylitis,3,1
+M46 Other inflammatory spondylopathies,1,2
+M47 Spondylosis,2,2
+M62 Other disorders of muscle,1,5
+M72 Fibroblastic disorders,4,2
+M80 Osteoporosis with pathological fracture,1,5
+M81 Osteoporosis without pathological fracture,4,25
+M86 Osteomyelitis,8,4
+N00-N99 Diseases of genitourinary system,279,338
+N03 Chronic nephritic syndrome,58,60
+N05 Unspecified nephritic syndrome,3,2
+"N12 Tubulo-interstitial nephritis, not specified as acute or chronic",2,7
+N13 Obstructive and reflux uropathy,6,3
+N17 Acute renal failure,36,35
+N18 Chronic renal failure,67,78
+N19 Unspecified renal failure,32,28
+N20 Calculus of kidney and ureter,1,5
+"N28 Other disorders of kidney and ureter, not elsewhere classified",5,1
+N30 Cystitis,1,1
+N32 Other disorders of bladder,3,3
+N39 Other disorders of urinary system,46,103
+P00-P96 Certain conditions originating in the perinatal period,61,42
+P01 Fetus and newborn affected by maternal complications of pregnancy,4,1
+"P02 Fetus and newborn affected by complications of placenta, cord and membranes",11,10
+"P07 Disorders related to short gestation and low birth weight, not elsewhere classified",23,16
+P22 Respiratory distress of newborn,2,2
+P23 Congenital pneumonia,1,2
+P36 Bacterial sepsis of newborn,4,1
+P77 Necrotizing enterocolitis of fetus and newborn,2,1
+P83 Other conditions of integument specific to fetus and newborn,1,2
+P91 Other disturbances of cerebral status of newborn,3,2
+"Q00-Q99 Congenital malformations, deformations and chromosomal abnormalities",89,82
+Q00 Anencephaly and similar malformations,2,3
+Q01 Encephalocele,1,1
+Q04 Other congenital malformations of brain,3,2
+Q05 Spina bifida,4,1
+Q21 Congenital malformations of cardiac septa,3,8
+Q22 Congenital malformations of pulmonary and tricuspid valves,4,3
+Q23 Congenital malformations of aortic and mitral valves,11,5
+Q24 Other congenital malformations of heart,4,3
+Q25 Congenital malformations of great arteries,4,2
+Q28 Other congenital malformations of circulatory system,1,1
+Q33 Congenital malformations of lung,5,2
+Q60 Renal agenesis and other reduction defects of kidney,6,2
+Q61 Cystic kidney disease,1,2
+Q63 Other congenital malformations of kidney,1,1
+Q77 Osteochondrodysplasia with defects of growth of tubular bones and spine,1,1
+"Q79 Congenital malformations of the musculoskeletal system, not elsewhere classified",2,3
+Q87 Other specified congenital malformation syndromes affecting multiple systems,5,2
+"Q89 Other congenital malformations, not elsewhere classified",1,3
+Q90 Down's syndrome,10,18
+Q91 Edwards' syndrome and Patau's syndrome,6,12
+"Q99 Other chromosome abnormalities, not elsewhere classified",3,2
+"R00-R99 Symptoms, signs and abnormal clinical and laboratory findings n.e.c.",59,53
+R04 Haemorrhage from respiratory passages,1,1
+R09 Other symptoms and signs involving the circulatory and respiratory systems,4,8
+R54 Senility,3,12
+R68 Other general symptoms and signs,10,14
+R95 Sudden infant death syndrome,10,4
+"R96 Other sudden death, cause unknown",8,3
+R99 Other ill-defined and unspecified causes of mortality,17,9
+V00-Y98 External causes of injury and poisoning,903,413
+"V03 Pedestrian injured in collision with car, pick-up truck or van",11,7
+"V13 Pedal cyclist injured in collision with car, pick-up truck or van",2,1
+"V43 Car occupant injured in collision with car, pick-up truck or van",10,11
+V44 Car occupant injured in collision with heavy transport vehicle or bus,3,7
+V47 Car occupant injured in collision with fixed or stationary object,22,1
+V48 Car occupant injured in noncollision transport accident,4,1
+"V89 Motor- or nonmotor-vehicle accident, type of vehicle unspecified",5,1
+"W01 Fall on same level from slipping, tripping and stumbling",11,17
+W06 Fall involving bed,5,5
+W07 Fall involving chair,1,1
+W10 Fall on and from stairs and steps,24,18
+W11 Fall on and from ladder,4,1
+"W13 Fall from, out of or through building or structure",10,1
+W17 Other fall from one level to another,8,1
+W18 Other fall on same level,7,13
+W19 Unspecified fall,49,63
+W65 Drowning and submersion while in bath-tub,1,1
+W69 Drowning and submersion while in natural water,30,8
+W73 Other specified drowning and submersion,2,1
+W74 Unspecified drowning and submersion,13,2
+W79 Inhalation and ingestion of food causing obstruction of respiratory tract,13,1
+W80 Inhalation and ingestion of other objects causing obstruction of respiratory tract,2,1
+W83 Other specified threats to breathing,1,1
+W84 Unspecified threat to breathing,3,3
+X00 Exposure to uncontrolled fire in building or structure,10,10
+X06 Exposure to ignition or melting of other clothing and apparel,1,2
+X30 Exposure to excessive natural heat,1,1
+"X40 Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics",2,2
+"X41 Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",11,4
+"X42 Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",16,6
+"X44 Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",89,49
+X45 Accidental poisoning by and exposure to alcohol,29,16
+X59 Exposure to unspecified factor,33,36
+"X61 Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",2,2
+"X64 Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",8,7
+"X70 Intentional self-harm by hanging, strangulation and suffocation",260,56
+X71 Intentional self-harm by drowning and submersion,23,18
+X78 Intentional self-harm by sharp object,5,1
+X80 Intentional self-harm by jumping from a high place,4,2
+X81 Intentional self-harm by jumping or lying before moving object,1,1
+X99 Assault by sharp object,6,3
+"Y11 Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified, undetermined intent",1,2
+"Y12 Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",7,1
+"Y14 Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",3,3
+"Y21 Drowning and submersion, undetermined intent",12,4
+"Y83 Surgical operation and other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",2,3
+Y85 Sequelae of transport accidents,2,2
